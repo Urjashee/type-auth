@@ -1,0 +1,18 @@
+{
+  "name": "test-auth",
+  "version": "1.0.0",
+  "description": "1. Register a user\r 2. Verify user's email address\r 3. Send forgot password email\r 4. Reset password\r 5. Get current user\r 6. Login\r 7. Access token\r 8. Refresh tokens",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "yarn": "^1.22.19"
+  }
+}
